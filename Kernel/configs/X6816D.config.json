@@ -2,8 +2,8 @@
     {
         "kernelSource": {
             "name": "Infinix_X6816D",
-            "repo": "https://github.com/Veynamer/kernel_ums512_5.4",
-            "branch": "master",
+            "repo": "https://github.com/Veynamer/android_kernel_infinix_X6816D-experimental",
+            "branch": "main",
             "device": "X6816D",
             "defconfig": "X6816D_nomodules_defconfig"
         },
